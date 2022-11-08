@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "Please cite this research as below."
+authors:
+- family-names: "Nguyen"
+  given-names: "Hoang"
+- family-names: "van Erp"
+  given-names: "Bart"
+  orcid: "https://orcid.org/0000-0002-5619-7071"
+- family-names: "Senoz"
+  given-names: "Ismail"
+- family-names: "de Vries"
+  given-names: "Bert"
+title: "Efficient Model Evidence Computation in Tree-structured Factor Graphs"
+version: 1.0.0
+date-released: 2022-11
+url: "https://github.com/biaslab/SiPS2022-EfficientModelEvidenceComputation"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Nguyen"
+    given-names: "Hoang"
+  - family-names: "van Erp"
+    given-names: "Bart"
+    orcid: "https://orcid.org/0000-0002-5619-7071"
+  - family-names: "Senoz"
+    given-names: "Ismail"
+  - family-names: "de Vries"
+    given-names: "Bert"
+  title: "Efficient Model Evidence Computation in Tree-structured Factor Graphs"
+  year: 2022
+  month: 11
+  conference:
+    - name: 2022 IEEE Workshop on Signal Processing Systems (SiPS)
